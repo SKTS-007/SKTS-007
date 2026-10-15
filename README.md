@@ -43,14 +43,6 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 </div>
 
-<br/>
-
-### Most Used Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKTS-007&theme=github_dark&hide_border=true&border_radius=8&layout=compact&langs_count=8" height="160"/>
-</div>
-
 ---
 
 
