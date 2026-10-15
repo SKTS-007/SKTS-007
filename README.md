@@ -37,7 +37,7 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 <div align="center">
 
-<img src="https://github-readme-stats-tau-ten-55.vercel.app/api?username=SKTS-007&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SKTS-007&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" height="160"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=SKTS-007&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" height="160"/>
 
@@ -45,10 +45,10 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 <br/>
 
-### Trophies
+### Most Used Languages
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SKTS-007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKTS-007&theme=github_dark&hide_border=true&border_radius=8&layout=compact&langs_count=8" height="160"/>
 </div>
 
 ---
