@@ -16,7 +16,7 @@
 
 ### About
 
-I'm **Soorya Kiran T S**, a third-year B.Tech IT student at the **School of Engineering, Cochin University of Science and Technology (CUSAT)**, Kochi, India.
+I'm **Soorya Kiran T S**, a B.Tech IT student at the **School of Engineering, Cochin University of Science and Technology (CUSAT)**, Kochi, India.
 
 I enjoy building practical software — from full-stack web apps to systems-level programs. I care about writing clean, readable code and understanding the fundamentals behind the tools I use.
 
@@ -41,8 +41,6 @@ Location  →  Kochi, Kerala, India
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SKTS-007&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKTS-007&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6" height="160"/>
 
 </div>
 
@@ -60,25 +58,15 @@ Location  →  Kochi, Kerala, India
 
 ---
 
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKTS-007/SKTS-007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKTS-007/SKTS-007/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SKTS-007/SKTS-007/output/github-snake.svg" width="100%" />
-</picture>
-
----
-
 ### Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sooryakiran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooryakirants15092005/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SKTS-007)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sooryakiran@gmail.com)
+[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sooryakirants007@gmail.com)
 
 </div>
 
