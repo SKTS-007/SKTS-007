@@ -55,7 +55,11 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 ### Contribution Activity
 
-<img src="https://ghchart.rshah.org/1f6feb/SKTS-007" width="100%" style="background:#0d1117;"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/SKTS-007"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969da/SKTS-007"/>
+  <img src="https://ghchart.rshah.org/58a6ff/SKTS-007" alt="Contribution Graph" width="100%"/>
+</picture>
 
 ---
 
@@ -63,11 +67,23 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKTS-007&theme=github_dark" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKTS-007&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKTS-007&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKTS-007&theme=github_dark" width="100%"/>
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKTS-007&theme=github_dark" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKTS-007&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKTS-007&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKTS-007&theme=github_dark" height="160"/>
+</picture>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKTS-007&theme=github_dark&utcOffset=5.5" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKTS-007&theme=github_dark&utcOffset=5.5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKTS-007&theme=github&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKTS-007&theme=github_dark&utcOffset=5.5" height="160"/>
+</picture>
 
 </div>
 
