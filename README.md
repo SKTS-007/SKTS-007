@@ -37,7 +37,7 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SKTS-007&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" height="160"/>
+<img src="https://github-readme-stats-tau-ten-55.vercel.app/api?username=SKTS-007&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&custom_title=Stats" height="160"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=SKTS-007&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" height="160"/>
 
@@ -48,14 +48,14 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 ### Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SKTS-007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SKTS-007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 </div>
 
 ---
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKTS-007&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%"/>
+<img src="https://ghchart.rshah.org/1f6feb/SKTS-007" width="100%" style="background:#0d1117;"/>
 
 ---
 
