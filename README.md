@@ -53,15 +53,6 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 
 ---
 
-### Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/SKTS-007?chart=calendar&theme=github-dark&flatten=1&weeks=52"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/SKTS-007?chart=calendar&theme=github&flatten=1&weeks=52"/>
-  <img src="https://ssr-contributions-svg.vercel.app/_/SKTS-007?chart=calendar&theme=github-dark&flatten=1&weeks=52" alt="Contribution Graph" width="100%"/>
-</picture>
-
----
 
 ### Profile Summary
 
