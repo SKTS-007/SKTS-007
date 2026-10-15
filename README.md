@@ -16,7 +16,7 @@
 
 ### About
 
-I'm **Soorya Kiran T S**, a B.Tech IT student at the **School of Engineering, Cochin University of Science and Technology (CUSAT)**, Kochi, India.
+I'm **Sooryakiran**, a B.Tech IT student at the **School of Engineering, Cochin University of Science and Technology (CUSAT)**, Kochi, India.
 
 I enjoy building practical software — from full-stack web apps to systems-level programs. I care about writing clean, readable code and understanding the fundamentals behind the tools I use.
 
