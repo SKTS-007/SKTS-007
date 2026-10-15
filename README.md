@@ -23,7 +23,6 @@ I enjoy building practical software — from full-stack web apps to systems-leve
 ```
 Focus     →  Full Stack Development · Systems Programming · Open Source
 Currently →  Deepening backend skills · Exploring AI/ML fundamentals
-Location  →  Kochi, Kerala, India
 ```
 
 ---
